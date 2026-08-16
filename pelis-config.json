@@ -1,5 +1,5 @@
 {
-  "version": 1786918175,
+  "version": 1786918595,
   "appUpdate": {
     "versionCode": 2,
     "versionName": "2.0",
@@ -11,7 +11,7 @@
     {
       "nombre": "Reproducir",
       "modo": "web",
-      "activo": false,
+      "activo": true,
       "movie": "https://cinesrc.st/embed/movie/{id}",
       "tv": "https://cinesrc.st/embed/tv/{id}?season={s}&episode={e}",
       "dominios": "cinesrc.st"
