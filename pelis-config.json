@@ -1,0 +1,9 @@
+{
+  "appUpdate": {
+    "versionCode": 1,
+    "versionName": "1.0",
+    "apkUrl": "https://github.com/gonito10/gonito-pelis-releases/releases/download/v1.0/gonito-pelis.apk",
+    "changelog": "",
+    "mandatory": false
+  }
+}
