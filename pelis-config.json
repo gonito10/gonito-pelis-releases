@@ -1,5 +1,5 @@
 {
-  "version": 1786916820,
+  "version": 1786918012,
   "appUpdate": {
     "versionCode": 2,
     "versionName": "2.0",
@@ -31,6 +31,14 @@
       "movie": "https://novahd.cc/watch/m/{id}",
       "tv": "https://novahd.cc/watch/s/{id}/{s}/{e}",
       "dominios": "novahd.cc, nova-edge, builder-417.workers.dev"
+    },
+    {
+      "nombre": "Popcorn",
+      "modo": "exo",
+      "activo": true,
+      "movie": "https://popcornmovies.io/watch/movie/{id}",
+      "tv": "https://popcornmovies.io/watch/tv/{id}/{s}/{e}",
+      "dominios": "popcornmovies.io"
     }
   ]
 }
