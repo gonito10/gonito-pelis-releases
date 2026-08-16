@@ -1,5 +1,5 @@
 {
-  "version": 1786918012,
+  "version": 1786918109,
   "appUpdate": {
     "versionCode": 2,
     "versionName": "2.0",
@@ -34,7 +34,7 @@
     },
     {
       "nombre": "Popcorn",
-      "modo": "exo",
+      "modo": "web",
       "activo": true,
       "movie": "https://popcornmovies.io/watch/movie/{id}",
       "tv": "https://popcornmovies.io/watch/tv/{id}/{s}/{e}",
