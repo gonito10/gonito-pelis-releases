@@ -1,5 +1,5 @@
 {
-  "version": 1786918595,
+  "version": 1786918751,
   "appUpdate": {
     "versionCode": 2,
     "versionName": "2.0",
@@ -9,7 +9,7 @@
   },
   "servers": [
     {
-      "nombre": "Reproducir",
+      "nombre": "CineSrc",
       "modo": "web",
       "activo": true,
       "movie": "https://cinesrc.st/embed/movie/{id}",
@@ -31,14 +31,6 @@
       "movie": "https://novahd.cc/watch/m/{id}",
       "tv": "https://novahd.cc/watch/s/{id}/{s}/{e}",
       "dominios": "novahd.cc, nova-edge, builder-417.workers.dev"
-    },
-    {
-      "nombre": "Popcorn",
-      "modo": "web",
-      "activo": true,
-      "movie": "https://popcornmovies.io/watch/movie/{id}",
-      "tv": "https://popcornmovies.io/watch/tv/{id}/{s}/{e}",
-      "dominios": "popcornmovies.io"
     }
   ]
 }
