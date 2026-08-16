@@ -1,10 +1,36 @@
 {
-  "version": 1786911972,
+  "version": 1786915585,
   "appUpdate": {
     "versionCode": 1,
     "versionName": "1.0",
     "apkUrl": "https://github.com/gonito10/gonito-pelis-releases/releases/download/V1.0/gonito-pelis.apk",
     "changelog": "",
     "mandatory": false
-  }
+  },
+  "servers": [
+    {
+      "nombre": "Reproducir",
+      "modo": "web",
+      "activo": true,
+      "movie": "https://cinesrc.st/embed/movie/{id}",
+      "tv": "https://cinesrc.st/embed/tv/{id}?season={s}&episode={e}",
+      "dominios": "cinesrc.st"
+    },
+    {
+      "nombre": "GoNiTo Player",
+      "modo": "exo",
+      "activo": true,
+      "movie": "https://flixer.gd/watch/movie/{id}",
+      "tv": "https://flixer.gd/watch/tv/{id}?season={s}&episode={e}",
+      "dominios": "flixer.gd, dragonballzfans.xyz"
+    },
+    {
+      "nombre": "Nova HD",
+      "modo": "web",
+      "activo": true,
+      "movie": "https://novahd.cc/watch/m/{id}",
+      "tv": "https://novahd.cc/watch/s/{id}/{s}/{e}",
+      "dominios": "novahd.cc, nova-edge, builder-417.workers.dev"
+    }
+  ]
 }
