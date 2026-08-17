@@ -1,10 +1,10 @@
 {
-  "version": 1786950172,
+  "version": 1786997301,
   "appUpdate": {
-    "versionCode": 3,
-    "versionName": "3.0",
-    "apkUrl": "https://github.com/gonito10/gonito-pelis-releases/releases/download/V3.0/gonito-pelis.apk",
-    "changelog": "Nuevo server Latino en filtros de idiomas",
+    "versionCode": 4,
+    "versionName": "4.0",
+    "apkUrl": "https://github.com/gonito10/gonito-pelis-releases/releases/download/V4.0/gonito-pelis.apk",
+    "changelog": "Nueva sección webs",
     "mandatory": false
   },
   "servers": [
