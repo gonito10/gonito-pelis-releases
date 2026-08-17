@@ -1,5 +1,5 @@
 {
-  "version": 1786936288,
+  "version": 1786936409,
   "appUpdate": {
     "versionCode": 2,
     "versionName": "2.0",
@@ -31,14 +31,6 @@
       "movie": "https://novahd.cc/watch/m/{id}",
       "tv": "https://novahd.cc/watch/s/{id}/{s}/{e}",
       "dominios": "novahd.cc, nova-edge, builder-417.workers.dev"
-    },
-    {
-      "nombre": "Aurora",
-      "modo": "web",
-      "activo": true,
-      "movie": "https://www.aurorascreen.org/movie?id={id}",
-      "tv": "https://www.aurorascreen.org/tv?id={id}?season={s}&episode={e}",
-      "dominios": "www.aurorascreen.org"
     }
   ]
 }
