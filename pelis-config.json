@@ -1,5 +1,5 @@
 {
-  "version": 1786947602,
+  "version": 1786948493,
   "appUpdate": {
     "versionCode": 3,
     "versionName": "3.0",
@@ -33,5 +33,5 @@
       "dominios": "cinesrc.st"
     }
   ],
-  "latinoUrl": "https://lamovie.org/peliculas/"
+  "latinoUrl": "https://tioplus.app/search"
 }
