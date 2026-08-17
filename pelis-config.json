@@ -1,5 +1,5 @@
 {
-  "version": 1786946917,
+  "version": 1786947602,
   "appUpdate": {
     "versionCode": 3,
     "versionName": "3.0",
@@ -17,21 +17,21 @@
       "dominios": "novahd.cc, nova-edge, builder-417.workers.dev"
     },
     {
-      "nombre": "CineSrc",
-      "modo": "web",
-      "activo": true,
-      "movie": "https://cinesrc.st/embed/movie/{id}",
-      "tv": "https://cinesrc.st/embed/tv/{id}?season={s}&episode={e}",
-      "dominios": "cinesrc.st"
-    },
-    {
       "nombre": "GoNiTo Player",
       "modo": "exo",
       "activo": true,
       "movie": "https://flixer.gd/watch/movie/{id}",
       "tv": "https://flixer.gd/watch/tv/{id}/{s}/{e}",
       "dominios": "flixer.gd, dragonballzfans.xyz"
+    },
+    {
+      "nombre": "CineSrc",
+      "modo": "web",
+      "activo": true,
+      "movie": "https://cinesrc.st/embed/movie/{id}",
+      "tv": "https://cinesrc.st/embed/tv/{id}?season={s}&episode={e}",
+      "dominios": "cinesrc.st"
     }
   ],
-  "latinoUrl": "https://www.youtube.com/?app=desktop"
+  "latinoUrl": "https://lamovie.org/peliculas/"
 }
