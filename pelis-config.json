@@ -1,5 +1,5 @@
 {
-  "version": 1786946745,
+  "version": 1786946886,
   "appUpdate": {
     "versionCode": 3,
     "versionName": "3.0",
@@ -33,5 +33,5 @@
       "dominios": "cinesrc.st"
     }
   ],
-  "latinoUrl": "lamovie.org"
+  "latinoUrl": "https://www.youtube.com/?app=desktop"
 }
