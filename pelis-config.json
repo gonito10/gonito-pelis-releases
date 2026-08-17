@@ -1,5 +1,5 @@
 {
-  "version": 1786934972,
+  "version": 1786936288,
   "appUpdate": {
     "versionCode": 2,
     "versionName": "2.0",
@@ -33,12 +33,12 @@
       "dominios": "novahd.cc, nova-edge, builder-417.workers.dev"
     },
     {
-      "nombre": "1Tube",
+      "nombre": "Aurora",
       "modo": "web",
       "activo": true,
-      "movie": "https://www.1tube.org/watch/{id}",
-      "tv": "https://www.1tube.org/watch/{id}/{s}/{e}",
-      "dominios": "https://www.1tube.org"
+      "movie": "https://www.aurorascreen.org/movie?id={id}",
+      "tv": "https://www.aurorascreen.org/tv?id={id}?season={s}&episode={e}",
+      "dominios": "www.aurorascreen.org"
     }
   ]
 }
