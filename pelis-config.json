@@ -1,5 +1,5 @@
 {
-  "version": 1786945139,
+  "version": 1786945244,
   "appUpdate": {
     "versionCode": 3,
     "versionName": "3.0",
@@ -31,6 +31,14 @@
       "movie": "https://novahd.cc/watch/m/{id}",
       "tv": "https://novahd.cc/watch/s/{id}/{s}/{e}",
       "dominios": "novahd.cc, nova-edge, builder-417.workers.dev"
+    },
+    {
+      "nombre": "Latino",
+      "modo": "web",
+      "activo": true,
+      "movie": "https://lamovie.org/peliculas/",
+      "tv": "https://lamovie.org/series",
+      "dominios": "lamovie.org"
     }
   ]
 }
