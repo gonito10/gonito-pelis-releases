@@ -1,5 +1,5 @@
 {
-  "version": 1786997301,
+  "version": 1786997592,
   "appUpdate": {
     "versionCode": 4,
     "versionName": "4.0",
@@ -33,5 +33,12 @@
       "dominios": "cinesrc.st"
     }
   ],
-  "latinoUrl": "https://simpsonmaniacos.com/"
+  "latinoUrl": "https://simpsonmaniacos.com/",
+  "webPages": [
+    {
+      "nombre": "Simpsonmaniacos",
+      "url": "https://simpsonmaniacos.com/",
+      "imageUrl": "https://www.clipartmax.com/png/full/215-2159476_poster-de-los-simpsons.png"
+    }
+  ]
 }
