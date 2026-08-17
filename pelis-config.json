@@ -1,5 +1,5 @@
 {
-  "version": 1786928056,
+  "version": 1786934972,
   "appUpdate": {
     "versionCode": 2,
     "versionName": "2.0",
@@ -31,6 +31,14 @@
       "movie": "https://novahd.cc/watch/m/{id}",
       "tv": "https://novahd.cc/watch/s/{id}/{s}/{e}",
       "dominios": "novahd.cc, nova-edge, builder-417.workers.dev"
+    },
+    {
+      "nombre": "1Tube",
+      "modo": "web",
+      "activo": true,
+      "movie": "https://www.1tube.org/watch/{id}",
+      "tv": "https://www.1tube.org/watch/{id}/{s}/{e}",
+      "dominios": "https://www.1tube.org"
     }
   ]
 }
