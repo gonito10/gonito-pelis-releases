@@ -1,5 +1,5 @@
 {
-  "version": 1786927850,
+  "version": 1786928056,
   "appUpdate": {
     "versionCode": 2,
     "versionName": "2.0",
@@ -13,7 +13,7 @@
       "modo": "exo",
       "activo": true,
       "movie": "https://flixer.gd/watch/movie/{id}",
-      "tv": "https://flixer.gd/watch/tv/{id}/?season={s}/&episode={e}",
+      "tv": "https://flixer.gd/watch/tv/{id}/{s}/{e}",
       "dominios": "flixer.gd, dragonballzfans.xyz"
     },
     {
