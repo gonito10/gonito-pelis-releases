@@ -1,5 +1,5 @@
 {
-  "version": 1787000097,
+  "version": 1787001282,
   "appUpdate": {
     "versionCode": 4,
     "versionName": "4.0",
@@ -44,6 +44,11 @@
       "nombre": "Simpsonizados",
       "url": "https://simpsonizados.me/temp/",
       "imageUrl": "https://simpsonizados.me/wp-content/uploads/2019/08/u8BMLmwoc7YPHKSWawOOqC1c8lJ-200x300.jpg"
+    },
+    {
+      "nombre": "LaMovie",
+      "url": "https://lamovie.org/",
+      "imageUrl": "https://thumbs.dreamstime.com/b/cartel-retro-de-la-c%C3%A1mara-del-vector-festival-pel%C3%ADcula-cine-130150135.jpg"
     }
   ]
 }
