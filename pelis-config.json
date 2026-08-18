@@ -1,5 +1,5 @@
 {
-  "version": 1787013000,
+  "version": 1787013116,
   "appUpdate": {
     "versionCode": 4,
     "versionName": "4.0",
@@ -41,7 +41,7 @@
     },
     {
       "nombre": "Pelis en Latino",
-      "url": "https://tioplus.app/search",
+      "url": "https://pelispedia.is/",
       "imageUrl": "https://media.a24.com/p/6bd4892256ae1267839db9be944d10e8/adjuntos/296/imagenes/007/963/0007963379/1200x675/smart/10-paginas-para-ver-peliculas-online.jpeg"
     }
   ]
