@@ -31,7 +31,9 @@
       "movie": "https://cinesrc.st/embed/movie/{id}",
       "tv": "https://cinesrc.st/embed/tv/{id}?season={s}&episode={e}",
       "dominios": "cinesrc.st"
-    },
+    }
+  ],
+  "webPages": [
     {
       "nombre": "Simpsonizados",
       "url": "https://simpsonizados.me/temp/",
